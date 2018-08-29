@@ -7,3 +7,4 @@ Drake
 Mall Grab
 Oauthbreaker
 Daphne
+Teyana Taylor
